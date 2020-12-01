@@ -31,3 +31,8 @@ Mod Features:
 >Unlmited Emergency Meetings (I didn't finish it yet)
 >Player Speed 0-250
 >Ghost Speed 0-250
+
+
+Credits:
+Legacy (fixed speed heki and sum else)
+DaddyDeep (helping me finding offsets)
